@@ -75,7 +75,6 @@ Feel free to:
 📝 Open an issue for questions
 ⭐ Star the repo if you find it helpful!
 
-
 📈 Performance Tips
 
 Use a vector for visited array in large graphs
