@@ -1,26 +1,26 @@
 🌳 BFS (Breadth First Search)
 📖 What is BFS?
-BFS is like exploring a maze level by level - it visits all vertices at the current depth before moving deeper. Think of it as ripples spreading out from a stone dropped in water.
-🎯 Key Features
+BFS is like exploring a maze level by level - it visits all vertices at the current depth before moving deeper. Think of it as ripples spreading out from a stone dropped in water.  
+🎯 Key Features  
 
 Systematic Exploration: Guarantees finding the shortest path in unweighted graphs
 Level-by-Level: Visits vertices in order of their distance from the source
 Memory Efficient: Uses a queue data structure for traversal
 
-🔧 Implementation
+🔧 Implementation  
 Core Components
 
 Graph class with adjacency list representation
 Queue-based traversal mechanism
 Visited vertex tracking system
 
-Performance
+Performance  
 AspectComplexityTimeO(V + E)SpaceO(V)
 💻 Code Example
 cppCopy// Create a graph with 6 vertices
 Graph g(6);
 
-// Add edges
+// Add edges  
 g.addEdge(0, 1);
 g.addEdge(0, 2);
 g.addEdge(1, 3);
