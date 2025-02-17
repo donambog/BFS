@@ -1,4 +1,4 @@
-🌳 BFS (Breadth First Search)  
+🌳 BFS (Breadth First Search in french "Recherche en largeur")  
 📖 What is BFS?  
 
 BFS is like exploring a maze level by level - it visits all vertices at the current depth before moving deeper. Think of it as ripples spreading out from a stone dropped in water.  
