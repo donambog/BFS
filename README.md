@@ -53,8 +53,10 @@ bashCopyBFS path: 0 1 2 3 4 5
 bashCopy# Compile
 g++ bfs.cpp -o bfs
 
-# Execute
-./bfs
+# Execute  
+
+./bfs  
+
 📋 Prerequisites
 
 C++11 or higher
